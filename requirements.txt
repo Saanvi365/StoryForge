@@ -1,0 +1,3 @@
+Pillow>=10.0
+# narration is optional: install espeak (Linux) or use say (built into macOS)
+# video assembly needs ffmpeg: https://ffmpeg.org/download.html
