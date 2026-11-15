@@ -1,0 +1,31 @@
+{
+  "title": "the corner three",
+  "scenes": [
+    {
+      "text": "the gym is empty except for one ball and one kid",
+      "narration": "The gym is empty except for one ball, and one kid."
+    },
+    {
+      "text": "she dribbles to the corner, the way she has a thousand times",
+      "narration": "She dribbles to the corner, the way she has a thousand times."
+    },
+    {
+      "text": "feet set. eyes up. the rim barely has to think about it",
+      "narration": "Feet set. Eyes up. The rim barely has to think about it."
+    },
+    {
+      "text": "the shot is over before anyone could have guarded it",
+      "narration": "The shot is over before anyone could have guarded it."
+    },
+    {
+      "text": "nobody saw it. she did it anyway",
+      "narration": "Nobody saw it. She did it anyway.",
+      "duration": 4.0
+    },
+    {
+      "text": "that's the whole story. that's the whole point",
+      "narration": "That's the whole story. That's the whole point.",
+      "duration": 4.5
+    }
+  ]
+}
